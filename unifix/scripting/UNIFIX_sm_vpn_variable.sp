@@ -60,11 +60,3 @@ public Action command(int client, int args)
 	
 	return Plugin_Handled;
 }
-
-
-
-
-
-
-
-
