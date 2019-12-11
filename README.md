@@ -26,4 +26,4 @@
 
 ## color changes
 #### All
-- Just some chat color changes
+- Fancy and colorful chat 😁
