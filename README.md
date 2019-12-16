@@ -9,7 +9,7 @@
 - Deletes all items on slots 3 to 5 before giving anything (just in case?)
 
 #### l4d_tank_rush
-- Saferoom door is locked until the tank dies
+- Locks saferoom door until the tank dies
 - Some color changes in chat
 
 #### l4d2_tankswap
@@ -19,6 +19,9 @@
 #### l4d2_first_map
 - Adds the "!firstmap" command (use it on confogl_off.cfg)
 - Loads the first map of the current campaign
+
+#### reset_scores
+- Set scores to 0 at each campaign start
 
 ## unifix
 #### All
