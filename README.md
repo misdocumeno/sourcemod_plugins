@@ -23,6 +23,9 @@
 #### reset_scores
 - Set scores to 0 at each campaign start
 
+#### l4d2_server_restarter_t1
+- Timer increased to 1 hour, to prevent the server from constantly restarting
+
 ## unifix
 #### All
 - Plugins that I use on [Unifix servers](https://steamcommunity.com/groups/UnifixServers)
